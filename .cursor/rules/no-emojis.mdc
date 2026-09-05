@@ -1,0 +1,8 @@
+---
+description: No emojis in repo artifacts.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+No emojis in markdown, comments, or UI copy unless the approved spec demands a user-facing icon from a named set.

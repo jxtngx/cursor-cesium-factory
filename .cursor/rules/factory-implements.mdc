@@ -1,0 +1,14 @@
+---
+description: This is a factory. After the spec is approved, engineers implement tickets.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# Factory, not a lab
+
+- Before a technical-requirements file exists: only `@init-globe` / discovery. No globe implementation.
+- After the spec is approved: implement the ticket. Do not send the user to write the globe themselves.
+- If they wanted to learn by typing, tell them this repo is a factory and stop expanding into a lab curriculum.
+- Implement only the locked platform (`TRACK.md`).
+- Official Cesium runtime. No CesiumGS source vendored as the app.

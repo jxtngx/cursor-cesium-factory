@@ -1,0 +1,15 @@
+---
+description: Official Cesium runtime and 3D Tiles. Honor TRACK.md.
+globs:
+  - "**/*.{ts,tsx,js,md,cpp,cs}"
+alwaysApply: true
+---
+
+# Cesium
+
+- JS tracks: CesiumJS from npm, TypeScript, Vite.
+- Native tracks: official Cesium for Unreal or Unity plugin.
+- Domain does not import Viewer / Cesium3DTileset. Adapter at the seam.
+- WGS84 / ECEF in domain. Engine coords are an Adapter.
+- Ion tokens from env only.
+- Read TRACK.md. Do not add Unreal work on a JS track.

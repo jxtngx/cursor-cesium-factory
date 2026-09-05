@@ -1,0 +1,8 @@
+---
+description: Small diffs. One ticket at a time.
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+One ticket, one concern. Do not rewrite the camera controller in a tileset ticket.

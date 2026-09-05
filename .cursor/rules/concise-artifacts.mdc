@@ -1,0 +1,8 @@
+---
+description: Short plans. Semantic line breaks.
+globs:
+  - "**/*.md"
+alwaysApply: true
+---
+
+One sentence per line in markdown. No filler.
