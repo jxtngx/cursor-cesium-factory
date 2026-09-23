@@ -1,3 +1,9 @@
+---
+name: review-cesium
+description: Review Cesium
+disable-model-invocation: true
+---
+
 # Review Cesium
 
 Run as `@reviewer`.

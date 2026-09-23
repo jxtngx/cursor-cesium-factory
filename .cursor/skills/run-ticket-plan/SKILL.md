@@ -1,3 +1,9 @@
+---
+name: run-ticket-plan
+description: Run ticket plan
+disable-model-invocation: true
+---
+
 # Run ticket plan
 
 After `@scrum-master` has written `.cursor/plans/project-init/<slug>-sprint.plan.md` and the user has approved it.

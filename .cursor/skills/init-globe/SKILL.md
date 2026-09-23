@@ -1,3 +1,9 @@
+---
+name: init-globe
+description: Init Globe (factory)
+disable-model-invocation: true
+---
+
 # Init Globe (factory)
 
 Start a **new Cesium product** from this factory.

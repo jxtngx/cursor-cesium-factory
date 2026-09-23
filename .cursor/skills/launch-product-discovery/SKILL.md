@@ -1,3 +1,9 @@
+---
+name: launch-product-discovery
+description: Launch Product Discovery (Cesium factory)
+disable-model-invocation: true
+---
+
 # Launch Product Discovery (Cesium factory)
 
 Same *shape* as [cursor-kotlin-factory](https://github.com/jxtngx/cursor-kotlin-factory) discovery.
